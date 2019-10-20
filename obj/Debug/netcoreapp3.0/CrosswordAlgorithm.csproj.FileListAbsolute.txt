@@ -1,0 +1,11 @@
+C:\Users\Taylor\Desktop\CS481 - Senior Design Project\CrosswordAlgorithm\obj\Debug\netcoreapp3.0\CrosswordAlgorithm.csprojAssemblyReference.cache
+C:\Users\Taylor\Desktop\CS481 - Senior Design Project\CrosswordAlgorithm\obj\Debug\netcoreapp3.0\CrosswordAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Taylor\Desktop\CS481 - Senior Design Project\CrosswordAlgorithm\obj\Debug\netcoreapp3.0\CrosswordAlgorithm.AssemblyInfo.cs
+C:\Users\Taylor\Desktop\CS481 - Senior Design Project\CrosswordAlgorithm\bin\Debug\netcoreapp3.0\CrosswordAlgorithm.exe
+C:\Users\Taylor\Desktop\CS481 - Senior Design Project\CrosswordAlgorithm\bin\Debug\netcoreapp3.0\CrosswordAlgorithm.deps.json
+C:\Users\Taylor\Desktop\CS481 - Senior Design Project\CrosswordAlgorithm\bin\Debug\netcoreapp3.0\CrosswordAlgorithm.runtimeconfig.json
+C:\Users\Taylor\Desktop\CS481 - Senior Design Project\CrosswordAlgorithm\bin\Debug\netcoreapp3.0\CrosswordAlgorithm.runtimeconfig.dev.json
+C:\Users\Taylor\Desktop\CS481 - Senior Design Project\CrosswordAlgorithm\bin\Debug\netcoreapp3.0\CrosswordAlgorithm.dll
+C:\Users\Taylor\Desktop\CS481 - Senior Design Project\CrosswordAlgorithm\bin\Debug\netcoreapp3.0\CrosswordAlgorithm.pdb
+C:\Users\Taylor\Desktop\CS481 - Senior Design Project\CrosswordAlgorithm\obj\Debug\netcoreapp3.0\CrosswordAlgorithm.dll
+C:\Users\Taylor\Desktop\CS481 - Senior Design Project\CrosswordAlgorithm\obj\Debug\netcoreapp3.0\CrosswordAlgorithm.pdb
